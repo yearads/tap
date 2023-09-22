@@ -16,11 +16,13 @@
     {"id":6, "app":"com.get.client"}
   ],
   "free":[
-    {"id":0, "file":0, "city":"Essen","country":"Germany","image":"germany","ip":"185.14.45.195","active":"true","signal":"a","vip":false},
-    {"id":1, "file":0, "city":"Luxemburg","country":"Germany","image":"luxemburg","ip":"185.14.45.195","active":"true","signal":"b","vip":false},
-    {"id":2, "file":0, "city":"Essen","country":"Germany","image":"germany","ip":"185.14.45.195","active":"true","signal":"a","vip":true},
-    {"id":3, "file":0, "city":"Luxemburg","country":"Germany","image":"luxemburg","ip":"185.14.45.195","active":"true","signal":"b","vip":true},
-    {"id":4, "file":0, "city":"Essen","country":"Germany","image":"germany","ip":"185.14.45.195","active":"true","signal":"a","vip":true},
-    {"id":5, "file":0, "city":"Luxemburg","country":"Germany","image":"luxemburg","ip":"185.14.45.195","active":"true","signal":"b","vip":true}
+    {"id":0, "file":0, "city":"Dallas","country":"United States","image":"germany","ip":"5.188.0.37","active":"true","signal":"a","vip":false},
+    {"id":1, "file":0, "city":"Ashburn","country":"United States","image":"germany","ip":"5.188.0.37","active":"true","signal":"a","vip":false},
+    {"id":2, "file":0, "city":"Los Angeles","country":"United States","image":"luxemburg","ip":"92.223.102.46","active":"true","signal":"b","vip":false},
+    {"id":3, "file":0, "city":"Miami","country":"United States","image":"luxemburg","ip":"92.223.102.46","active":"true","signal":"b","vip":false},
+    {"id":4, "file":0, "city":"Phoenix","country":"United States","image":"germany","ip":"23.154.136.222","active":"true","signal":"a","vip":true},
+    {"id":5, "file":0, "city":"New York","country":"United States","image":"germany","ip":"89.117.76.30","active":"true","signal":"a","vip":true},
+    {"id":6, "file":0, "city":"Chicago","country":"United States","image":"germany","ip":"89.117.76.30","active":"true","signal":"a","vip":true},
+    {"id":7, "file":0, "city":"Luxemburg","country":"Germany","image":"luxemburg","ip":"185.14.45.195","active":"true","signal":"b","vip":true}
   ]
 }
